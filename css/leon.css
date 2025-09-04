@@ -477,9 +477,9 @@ text-align: center;
   .contact .text-3 p:first-child {
     font-size: 20px;
   }
-  .contact .text-3 a {
-    font-size: 25px;
-  }
+    .contact .text-3 a {
+        font-size: 25px;
+    }
 }
 /*  */
 .footer{
